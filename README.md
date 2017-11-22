@@ -1,6 +1,6 @@
 # README
 
-Rails app for commenting service. When a user types a comment into the box and clicks the Post button, the comment is saved into a database.
+Rails app as a commenting service. When a user types a comment into the box and clicks the Post button, the comment is saved into a database.
 
 [![Threadly.png](https://s7.postimg.org/9p3zcyz9n/Threadly.png)](https://postimg.org/image/f0ivxolc7/)
 
